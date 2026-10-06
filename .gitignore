@@ -2,3 +2,4 @@
 zig-out/
 result
 result-*
+__pycache__/

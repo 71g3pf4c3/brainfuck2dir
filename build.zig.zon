@@ -1,0 +1,11 @@
+.{
+    .name = .brainfuck2dir,
+    .version = "0.1.0",
+    .fingerprint = 0x563df4b8aa421584,
+    .minimum_zig_version = "0.16.0",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
